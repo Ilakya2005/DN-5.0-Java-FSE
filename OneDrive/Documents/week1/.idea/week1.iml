@@ -7,5 +7,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="junit" level="project" />
+    <orderEntry type="library" name="mockito.core" level="project" />
+    <orderEntry type="library" name="slf4j.api" level="project" />
+    <orderEntry type="library" name="ch.qos.logback.classic" level="project" />
   </component>
 </module>
